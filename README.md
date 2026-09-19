@@ -1,4 +1,4 @@
-# cacheProxy
+# cache-proxy
 
 `cacheProxy` is a small Java library that adds result caching to service objects through a dynamic proxy built with `cglib`.
 
